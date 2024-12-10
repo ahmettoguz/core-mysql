@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img height=120 src="assets/banner.png">
+    <img height=200 src="assets/banner.png">
 </div>
 
 <br>
@@ -35,6 +35,7 @@ This project provides a Dockerized MySQL image with customizable environment con
 <h2 id="features">🔥 Features</h2>
 
 + **Docker Containerization:** The application is containerized for consistent deployment and scaling.
++ **Persistent Data:** Uses a volume to store MySQL data for reliability and consistency across restarts.
 
 <br/>
 
