@@ -13,6 +13,7 @@
 - [About Project](#intro)
 - [Technologies](#technologies)
 - [Features](#features)
+- [Releases](#releases)
 - [System Startup](#system-startup)
 - [Contributors](#contributors)
  
@@ -39,16 +40,21 @@ This project provides a Dockerized MySQL image with customizable environment con
 
 <br/>
 
+<h2 id="releases">🚢 Releases</h2> 
+
+&nbsp; [![.](https://img.shields.io/badge/1.0.0-233838?style=flat&label=version&labelColor=470137&color=077521)](https://github.com/ahmettoguz/core-mysql/tree/v1.0.0)
+
+<br/>
+
 <h2 id="system-startup">🚀 System Startup</h2> 
 
-* Create a new directory named "core".
-* Clone the `core-docker-config` and `core-mysql` repositories into the "core" directory.
+* Create a new directory named `core`.
+* Clone the `core-docker-config` and `core-mysql` repositories into the `core` directory.
 ```
 git clone https://github.com/ahmettoguz/core-docker-config
 git clone https://github.com/ahmettoguz/core-mysql
 ```
 * Refer to the documentation provided in the [`core-docker-config`](https://github.com/ahmettoguz/core-docker-config) project for the system startup commands.
-
 
 <br/>
 
